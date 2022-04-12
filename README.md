@@ -8,4 +8,10 @@
 
 # Second Paragraph
 
-### How to Learn Things Fast Without Going Crazy
+## How to Learn Things Fast Without Going Crazy
+avoid these method:
+1. The Tutorial Hell : not enogh in watch just without applied this.
+2. Long Form Of Content : it take too much time , the best way of learning is by doing.
+
+solution:
+1. 

@@ -6,8 +6,6 @@
 
 #
 
-# **Second Paragraph**
-
 ## **How to Learn Things Fast Without Going Crazy**
 > avoid these method:
 - ***The Tutorial Hell*** : not enogh in watch just without applied this.
